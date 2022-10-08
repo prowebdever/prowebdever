@@ -1,4 +1,7 @@
 ### Wellcome to my GitHub 👋
+Well, Who am I?
+I am a mystery man to develop Full Stack & Blockchain applications.
+
 
 
 <!--
